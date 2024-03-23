@@ -38,12 +38,15 @@ This is a task tracker application built with React for the frontend and Node.js
    
 4. Access the application at http://localhost:3000 in your web browser.
 
-Usage
-Register an account or sign in with an existing account.
-Add tasks by providing a task description.
-View all tasks on the dashboard.
-Edit tasks by clicking on the task and modifying the details.
-Change task status by clicking on the arrow icons.
-Delete tasks by clicking on the delete icon.
-Contributing
+5. Usage
+   
+i)Register an account or sign in with an existing account.
+ii)Add tasks by providing a task description.
+iii)View all tasks on the dashboard.
+iv)Edit tasks by clicking on the task and modifying the details.
+v)Change task status by clicking on the arrow icons.
+vi)Delete tasks by clicking on the delete icon.
+
+
+
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
