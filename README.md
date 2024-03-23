@@ -1,7 +1,6 @@
 # Task-Management-Application
-# Task Tracker Application
 
-This is a task tracker application built with React for the frontend and Node.js with Express for the backend. It allows users to register, sign in, add tasks, edit tasks, change task status, and delete tasks.
+This is a task management application built with React for the frontend and Node.js with Express for the backend. It allows users to register, sign in, add tasks, edit tasks, change task status, and delete tasks.
 
 ## Features
 
